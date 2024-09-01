@@ -70,7 +70,7 @@
 ### In Progress
 - Reconfiguration of main FACT table population API protocol due changes on the server side possibilities.
 
-### Planned Features
+### Next steps
 - **Q3 2024:** Reconfigured FACT table population and linking and polishing of deliveries dashboard to meet upper management requeriments.
 - **Q4 2024:** Configured data generation for WH metrics.
 - **Q1 2025:** WH metrics dashboard and data configuration for pattern recognition.
