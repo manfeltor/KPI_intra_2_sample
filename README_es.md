@@ -81,7 +81,7 @@ Para obtener más información sobre el desarrollo de características, consulte
 - Para colaboración, por favor contáctame en manfeltor@live.com
 
 ### Enlaces del Proyecto
-# ###project-links-es
+#### project-links-es
 - **Repositorio:** [KPI intra_2_sample](https://github.com/manfeltor/KPI_intra_2_sample)
 - **Demo en Vivo:** [Demo en Vivo](#) *Enlace a una demostración en vivo si está disponible.*
 
