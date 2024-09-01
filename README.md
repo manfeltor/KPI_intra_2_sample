@@ -140,7 +140,7 @@ Since this is a demonstration repo and the full database is too large for GitHub
 Start the Django development server:
 
 ```bash
-python manage.py runserver
+python manage.py runserver --insecure
 ```
 
 ### License
