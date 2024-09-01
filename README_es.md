@@ -141,7 +141,7 @@ Dado que este es un repositorio de demostración y la base de datos completa es 
 Inicie el servidor de desarrollo de Django:
 
 ```bash
-python manage.py runserver
+python manage.py runserver --insecure
 ```
 
 ### Licencia
