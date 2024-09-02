@@ -83,7 +83,8 @@ Para obtener más información sobre el desarrollo de características, consulte
 ### Enlaces del Proyecto
 #### project-links-es
 - **Repositorio:** [KPI intra_2_sample](https://github.com/manfeltor/KPI_intra_2_sample)
-- **Demo en Vivo:** [Demo en Vivo](#) *Enlace a una demostración en vivo si está disponible.*
+- **Demo en Vivo:** [Video introductorio en español](https://youtu.be/fQaNmSXmUqQ)
+- **Demo en Vivo:** Video introductorio en ingles (coming soon)
 
 ## Instalación
 
