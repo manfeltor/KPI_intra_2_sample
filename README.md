@@ -83,7 +83,8 @@
 ### Project Links
 #project-links
 - **Repository:** [KPI intra_2_sample](https://github.com/manfeltor/KPI_intra_2_sample)
-- **Live Demo:** comming soon.*
+- **Live Demo:** [live demo in spanish](https://www.youtube.com/watch?v=fQaNmSXmUqQ).*
+- **Live Demo:** live demo in english (coming soon).*
 
 ## Installation
 
